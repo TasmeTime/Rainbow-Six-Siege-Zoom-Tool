@@ -1,0 +1,13 @@
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\Mag.exe.config
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\Mag.exe
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\Mag.pdb
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\Gma.System.MouseKeyHook.dll
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\PInvoke.Windows.Core.dll
+D:\Programming\Siege Zoom Tool\Mag\Mag\bin\Release\PInvoke.Windows.Core.xml
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.Form1.resources
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.Properties.Resources.resources
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.csproj.GenerateResource.cache
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.csproj.CoreCompileInputs.cache
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.csproj.CopyComplete
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.exe
+D:\Programming\Siege Zoom Tool\Mag\Mag\obj\Release\Mag.pdb
